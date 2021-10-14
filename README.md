@@ -3,6 +3,7 @@ Website I built for my brother's marketing agency. Quite a lot of CSS was explor
 
 ## features
 * The site was built as a single page app.
+* Responsive with pc/tablet and mobile display
 
 
 ## how it works
